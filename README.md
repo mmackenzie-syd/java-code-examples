@@ -1,7 +1,7 @@
 # java-code-examples
 A collection of Java Applications:
 
-1. [Using servlets in Spring-Boot](https://github.com/mmackenzie-syd/java-servlets)
+1. [Using Servlets in Spring-Boot](https://github.com/mmackenzie-syd/java-servlets)
 
 2. [Spring-Boot MVC - Pokemon Review](https://github.com/mmackenzie-syd/pokemon-review)
 
